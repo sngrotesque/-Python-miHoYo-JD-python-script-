@@ -1,3 +1,5 @@
+# 作者：SN-Grotesque（Author: SN-Grotesque）
+
 import requests
 import time
 #import ssl
