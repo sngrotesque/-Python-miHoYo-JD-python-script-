@@ -16,7 +16,7 @@ headers = {
     "Referer": "https://jobs.mihoyo.com/apply/mihoyo/7524/",
     "Content-Type": "application/json",
     "Origin": "https://jobs.mihoyo.com",
-    "Cookie": "_qddaz=QD.384umz.sp3zk7.kbbk8urs; connect.sid=s%3Axtj-PmOM8tZI6Rg3k0TSq5_Mjm_3IbsF.%2BaN2TIba1%2FL%2BXSIcFQ091BmuQJlPYAPQ9e35Bit88s8; locale=en-US; moka-apply=gqElitYa6%2B4OEA3GIaA78VVEZzE1T8zbDXbQcCPx70k%3D"
+    #"Cookie": "请您使用自己的Cookie（Please use your own Cookie）"
 }
 
 data = {
