@@ -11,3 +11,5 @@
 同时，也请您不要重复使用该脚本对其公司造成影响（At the same time, please do not reuse this script to affect its company）
 
 # Thanks !!!
+
+这一个资源我会持续更新与维护，版本迭代的表现为demo[x]
