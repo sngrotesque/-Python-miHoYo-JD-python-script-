@@ -1,13 +1,9 @@
-# 作者：SN-Grotesque（Author: SN-Grotesque）
 import requests
 
 x=0
-while True:
-    url_tdjl = "https://jobs.mihoyo.com/api/apply/mihoyo/612ec466-7d0e-42dc-b489-f460ff282a38"  # 投递网址
-    h = {
-        "Host": "jobs.mihoyo.com",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"
-    }  # 请求头部
+while x<10000:
+    url_tdjl = "https://jobs.mihoyo.com/api/apply/mihoyo/612ec466-7d0e-42dc-b489-f460ff282a38"
+    h = {"Host": "jobs.mihoyo.com","User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0"}
     
     data = {
     "1822": [{}],"1823": [{}],"1824": [{}],"1825": [{}],
