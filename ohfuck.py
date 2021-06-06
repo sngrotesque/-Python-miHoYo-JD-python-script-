@@ -31,3 +31,5 @@ while x<10000:
     print("%s" % rr)
     
     x=x+1
+
+exit()
